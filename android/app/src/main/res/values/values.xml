@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace the placeholder values with the actual values from your JSON file -->
+    <string name="project_id">kisan-setu-c60bb</string>
+    <string name="project_number">993986680273</string>
+    <string name="firebase_url">https://kisan-setu-c60bb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">993986680273</string>
+    <string name="google_storage_bucket">kisan-setu-c60bb.appspot.com</string>
+    <string name="google_api_key">AIzaSyBIgGgL0HhJNnnrYBUnLyD9NvckLa1D24M</string>
+    <string name="google_app_id">1:993986680273:android:537ab3cea9a76c8afffcf0</string>
+</resources>

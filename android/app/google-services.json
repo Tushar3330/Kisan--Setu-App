@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993986680273",
+    "project_id": "kisan-setu-c60bb",
+    "storage_bucket": "kisan-setu-c60bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993986680273:android:537ab3cea9a76c8afffcf0",
+        "android_client_info": {
+          "package_name": "com.example.kisan_setu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgGgL0HhJNnnrYBUnLyD9NvckLa1D24M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
